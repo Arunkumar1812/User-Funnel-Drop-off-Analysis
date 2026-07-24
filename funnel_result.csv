@@ -1,0 +1,6 @@
+step,users,conversion_rate,drop_off
+details_filled,96,NULL,NULL
+email_verified,52,54.17,45.83
+purchase_completed,44,84.62,15.38
+signup_started,150,340.91,-240.91
+visited_site,200,133.33,-33.33
